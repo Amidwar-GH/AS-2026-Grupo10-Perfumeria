@@ -1,1 +1,2 @@
-# AS-2026-Grupo10-Perfumeria
+\# 🛍️ Sistema de Ventas e Inventario - Perfumería de Jessica \*\*Universidad Nacional Jorge Basadre Grohmann (UNJBG)\*\* \*Escuela Profesional de Ingeniería en Informática y Sistemas\* \*Asignatura: Análisis de Sistemas (IIS 19.04421) - 2026-II\* \*\*Grupo 10\*\* --- ## 
+📌 Descripción del Proyecto Desarrollo de un sistema de información para el control de punto de venta (caja), gestión de inventario multinivel de cosméticos y perfumes, alertas preventivas de caducidad y cobro digital \*offline\* para el local comercial de Jessica.
